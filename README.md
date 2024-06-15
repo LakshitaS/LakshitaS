@@ -1,11 +1,11 @@
 ![git master](https://github.com/LakshitaS/lakshitaS/assets/97253226/76cb82f4-083f-4792-be58-1f4a40a9d5b6)
 
 
-<h1 align="center">Hey 👋 I,m Lakshita Saxena</h1>
+<h1 align="center">Hey 👋 I'm Lakshita Saxena</h1>
 
 ###
 
-<h5 align="center">Crafting Cutting-Edge Solutions: Full Stack Web Developer & Research Innovator</h5>
+<h3 align="center">Crafting Cutting-Edge Solutions: Full Stack Web Developer & Research Innovator</h3>
 
 ###
 
