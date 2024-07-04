@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a research project<br><br>🌱 I’m currently learning Ai and ML approaches<br><br>💬 Ask me about MERN Stack development.<br><br>📫 How to reach me : lakshitasaxenajbd@gmail.com<br><br>🎲 Fun fact: I think I am a solitary individual.</p>
+<p align="left">🔭 I’m currently working on a research project<br><br>🌱 I’m currently learning AI and ML approaches<br><br>💬 Ask me about MERN Stack development.<br><br>📫 How to reach me : lakshitasaxenajbd@gmail.com<br><br>🎲 Fun fact: I think I am a solitary individual.</p>
 
 ###
 
